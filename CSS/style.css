@@ -105,7 +105,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background:url('../Images/showcase.jpg') no-repeat 0 -200px;
+    background:url('https://elliot-treasure.github.io/Acme-WebSite\/Images/showcase.jpg') no-repeat 0 -200px;
     text-align:center;
     color:#ffffff;
 }
